@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0136-single-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/pithva007/Leetcode-Submission/tree/master/2595-number-of-even-and-odd-bits) |
 ## Two Pointers
 |  |
 | ------- |
