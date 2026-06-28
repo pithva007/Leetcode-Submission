@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pithva007/Leetcode-Submission/tree/master/0283-move-zeroes) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pithva007/Leetcode-Submission/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pithva007/Leetcode-Submission/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
