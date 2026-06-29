@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
+| [1922-count-good-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/0002-add-two-numbers) |
+| [1922-count-good-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
