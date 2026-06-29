@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pithva007/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pithva007/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pithva007/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pithva007/Leetcode-Submission/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
