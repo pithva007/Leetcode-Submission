@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pithva007/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pithva007/Leetcode-Submission/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
