@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0896-monotonic-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0896-monotonic-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pithva007/Leetcode-Submission/tree/master/1053-previous-permutation-with-one-swap) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pithva007/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -117,9 +118,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
+| [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -179,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
