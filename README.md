@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pithva007/Leetcode-Submission/tree/master/1053-previous-permutation-with-one-swap) |
+| [1288-remove-covered-intervals](https://github.com/pithva007/Leetcode-Submission/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pithva007/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pithva007/Leetcode-Submission/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
+| [1288-remove-covered-intervals](https://github.com/pithva007/Leetcode-Submission/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
