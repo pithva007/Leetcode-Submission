@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/pithva007/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/pithva007/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pithva007/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/0074-search-a-2d-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pithva007/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
