@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pithva007/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/pithva007/Leetcode-Submission/tree/master/2833-furthest-point-from-origin) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/pithva007/Leetcode-Submission/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pithva007/Leetcode-Submission/tree/master/1053-previous-permutation-with-one-swap) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pithva007/Leetcode-Submission/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Breadth-First Search
@@ -220,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pithva007/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pithva007/Leetcode-Submission/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
