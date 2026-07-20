@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1922-count-good-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pithva007/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pithva007/Leetcode-Submission/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0896-monotonic-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pithva007/Leetcode-Submission/tree/master/1053-previous-permutation-with-one-swap) |
 | [1260-shift-2d-grid](https://github.com/pithva007/Leetcode-Submission/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/pithva007/Leetcode-Submission/tree/master/1288-remove-covered-intervals) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
+| [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/pithva007/Leetcode-Submission/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pithva007/Leetcode-Submission/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/pithva007/Leetcode-Submission/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
+| [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pithva007/Leetcode-Submission/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pithva007/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
