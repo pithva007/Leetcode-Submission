@@ -2,10 +2,11 @@ class Solution {
 public:
     bool isPowerOfTwo(int n) {
         if(n <= 0)return false;
-        while(n % 2 == 0)
-        {
-            n /= 2;
-        }
-        return n == 1;
+        return !(n & (n - 1));
+
+        // 8 => 1000    --> 2^x true
+        // 7 => 0111    --> not 
+        //.  => 0000 means true
+        // else false
     }
 };
