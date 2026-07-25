@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
