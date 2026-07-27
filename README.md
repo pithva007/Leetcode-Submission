@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pithva007/Leetcode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pithva007/Leetcode-Submission/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0896-monotonic-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0896-monotonic-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pithva007/Leetcode-Submission/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -252,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
