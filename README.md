@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/pithva007/Leetcode-Submission/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pithva007/Leetcode-Submission/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pithva007/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/pithva007/Leetcode-Submission/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pithva007/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/pithva007/Leetcode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pithva007/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
