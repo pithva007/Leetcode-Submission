@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pithva007/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
+| [0605-can-place-flowers](https://github.com/pithva007/Leetcode-Submission/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0896-monotonic-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/pithva007/Leetcode-Submission/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/pithva007/Leetcode-Submission/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pithva007/Leetcode-Submission/tree/master/1053-previous-permutation-with-one-swap) |
