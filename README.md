@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
+| [1486-xor-operation-in-an-array](https://github.com/pithva007/Leetcode-Submission/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pithva007/Leetcode-Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pithva007/Leetcode-Submission/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/pithva007/Leetcode-Submission/tree/master/0461-hamming-distance) |
+| [1486-xor-operation-in-an-array](https://github.com/pithva007/Leetcode-Submission/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pithva007/Leetcode-Submission/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/pithva007/Leetcode-Submission/tree/master/2595-number-of-even-and-odd-bits) |
 ## Two Pointers
