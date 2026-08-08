@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/pithva007/Leetcode-Submission/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/pithva007/Leetcode-Submission/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pithva007/Leetcode-Submission/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/pithva007/Leetcode-Submission/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/pithva007/Leetcode-Submission/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pithva007/Leetcode-Submission/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pithva007/Leetcode-Submission/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/pithva007/Leetcode-Submission/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/pithva007/Leetcode-Submission/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
