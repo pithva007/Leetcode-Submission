@@ -283,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pithva007/Leetcode-Submission/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/pithva007/Leetcode-Submission/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
