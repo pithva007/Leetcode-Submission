@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/pithva007/Leetcode-Submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1486-xor-operation-in-an-array](https://github.com/pithva007/Leetcode-Submission/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1922-count-good-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/pithva007/Leetcode-Submission/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pithva007/Leetcode-Submission/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3532-path-existence-queries-in-a-graph-i) |
