@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/pithva007/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pithva007/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pithva007/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/pithva007/Leetcode-Submission/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/pithva007/Leetcode-Submission/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pithva007/Leetcode-Submission/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/pithva007/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1922-count-good-numbers) |
 ## Sliding Window
