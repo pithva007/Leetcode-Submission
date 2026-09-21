@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/pithva007/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pithva007/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pithva007/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/pithva007/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pithva007/Leetcode-Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/pithva007/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pithva007/Leetcode-Submission/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/pithva007/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
