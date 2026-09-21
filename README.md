@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/pithva007/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/pithva007/Leetcode-Submission/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pithva007/Leetcode-Submission/tree/master/0074-search-a-2d-matrix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0189-rotate-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
@@ -289,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
