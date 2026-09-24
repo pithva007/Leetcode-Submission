@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/pithva007/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pithva007/Leetcode-Submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/pithva007/Leetcode-Submission/tree/master/1053-previous-permutation-with-one-swap) |
 | [1260-shift-2d-grid](https://github.com/pithva007/Leetcode-Submission/tree/master/1260-shift-2d-grid) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/pithva007/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/pithva007/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pithva007/Leetcode-Submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pithva007/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pithva007/Leetcode-Submission/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pithva007/Leetcode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pithva007/Leetcode-Submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2270-number-of-ways-to-split-array](https://github.com/pithva007/Leetcode-Submission/tree/master/2270-number-of-ways-to-split-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
