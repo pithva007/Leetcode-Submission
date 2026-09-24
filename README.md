@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pithva007/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/pithva007/Leetcode-Submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
+| [0561-array-partition](https://github.com/pithva007/Leetcode-Submission/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pithva007/Leetcode-Submission/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/pithva007/Leetcode-Submission/tree/master/0724-find-pivot-index) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pithva007/Leetcode-Submission/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/pithva007/Leetcode-Submission/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/pithva007/Leetcode-Submission/tree/master/1288-remove-covered-intervals) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/pithva007/Leetcode-Submission/tree/master/0134-gas-station) |
+| [0561-array-partition](https://github.com/pithva007/Leetcode-Submission/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pithva007/Leetcode-Submission/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/pithva007/Leetcode-Submission/tree/master/0976-largest-perimeter-triangle) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0241-different-ways-to-add-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pithva007/Leetcode-Submission/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
