@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pithva007/Leetcode-Submission/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pithva007/Leetcode-Submission/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pithva007/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/pithva007/Leetcode-Submission/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pithva007/Leetcode-Submission/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/pithva007/Leetcode-Submission/tree/master/0567-permutation-in-string) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/pithva007/Leetcode-Submission/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/pithva007/Leetcode-Submission/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/1922-count-good-numbers) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pithva007/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pithva007/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
+| [0241-different-ways-to-add-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/pithva007/Leetcode-Submission/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pithva007/Leetcode-Submission/tree/master/0918-maximum-sum-circular-subarray) |
@@ -319,5 +323,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pithva007/Leetcode-Submission/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
