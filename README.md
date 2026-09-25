@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pithva007/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/pithva007/Leetcode-Submission/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/pithva007/Leetcode-Submission/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/pithva007/Leetcode-Submission/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pithva007/Leetcode-Submission/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pithva007/Leetcode-Submission/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/pithva007/Leetcode-Submission/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
