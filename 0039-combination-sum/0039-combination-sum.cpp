@@ -1,28 +1,26 @@
 class Solution {
 public:
-    void backtrack(const vector<int>& cd, int remaining, int start,vector<int>& current, vector<vector<int>>& results) {
-        if (remaining == 0) {
-            results.push_back(current);
+    vector<vector<int>> ans;
+
+    void solve(vector<int>& a, int target, int i, vector<int>& temp) {
+        if (target == 0) {
+            ans.push_back(temp);
             return;
         }
 
-        for (int i = start; i < cd.size(); ++i) {
-            if (cd[i] > remaining) {
-                break;
-            }
+        if (i == a.size() || target < 0)
+            return;
 
-            current.push_back(cd[i]);
-            backtrack(cd, remaining - cd[i], i, current, results);
-            current.pop_back();
-        }
+        temp.push_back(a[i]);
+        solve(a, target - a[i], i, temp);
+        temp.pop_back();
+
+        solve(a, target, i + 1, temp);
     }
-    vector<vector<int>> combinationSum(vector<int>& cd, int target) {
-        vector<vector<int>> results;
-        vector<int> current;
 
-        sort(cd.begin(), cd.end());
-
-        backtrack(cd, target, 0, current, results);
-        return results;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<int> temp;
+        solve(candidates, target, 0, temp);
+        return ans;
     }
 };
